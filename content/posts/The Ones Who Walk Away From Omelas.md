@@ -1,7 +1,7 @@
 ---
 title: "The Ones Who Walk Away From Omelas"
 date: 2023-01-04T20:30:13-05:00
-draft: true
+draft: false
 tags: ["Short Story", "Science Fiction", "Philosophical", "Fiction"]
 categories: ["Books"]
 image: "/images/Pic5.webp"

@@ -1,7 +1,7 @@
 ---
 title: "The Monkey's Paw"
 date: 2023-01-03T20:30:13-05:00
-draft: true
+draft: false
 tags: ["Short Story", "Horror", "Fiction"]
 categories: ["Books"]
 image: "/images/Pic7.jpg"

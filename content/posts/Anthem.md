@@ -1,7 +1,7 @@
 ---
 title: "Anthem"
 date: 2023-01-03T20:30:13-05:00
-draft: true
+draft: false
 tags: ["Science Fiction", "Dystopian", "Novella", "Fiction", "Classics"]
 categories: ["Books"]
 image: "/images/Pic4.jpeg"

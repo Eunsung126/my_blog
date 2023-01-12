@@ -1,7 +1,7 @@
 ---
 title: "To Kill a Mocking Bird"
 date: 2023-01-02T20:30:13-05:00
-draft: true
+draft: false
 tags: ["Novel", "Classics", "Fiction"]
 categories: ["Books"]
 image: "/images/Pic2.jpeg"

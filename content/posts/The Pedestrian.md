@@ -1,7 +1,7 @@
 ---
 title: "The Pedestrian"
 date: 2023-01-05T20:30:13-05:00
-draft: true
+draft: false
 tags: ["Short Story", "Science Fiction", "Fiction"]
 categories: ["Books"]
 image: "/images/Pic8.jpeg"
