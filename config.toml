@@ -32,7 +32,7 @@ hasCJKLanguage = false
     image = "/images/Pic15.JPG"
     # link of Aboutme in author card and footer
     # 作者卡片里 Aboutme 和页脚作者的链接
-    link = "http://localhost:1313/about/"
+    link = "https://eunsung126.github.io/my_blog/about/"
 
 # Taxonomies, Currently, only the following 3 taxonomies are supported
 # If you don't want one of them，delete it in [menus] instead here
@@ -55,7 +55,7 @@ hasCJKLanguage = false
         homeTopImg = "/images/Pic10.jpg"
         # title in home top image, support Markdown
         # 主页标题，支持Markdown语法
-        homeTitle = "Welcome, I'm Eunsung!"
+        homeTitle = "Welcome, I'm Eunsung"
         # font size(px)
         # 主页标题字号（单位：px）
         homeTitleFontSize = 40
