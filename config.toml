@@ -55,13 +55,13 @@ hasCJKLanguage = false
         homeTopImg = "/images/Pic10.jpg"
         # title in home top image, support Markdown
         # 主页标题，支持Markdown语法
-        homeTitle = "Welcome, I'm Eunsung"
+        homeTitle = "Welcome, I'm Eunsung!"
         # font size(px)
         # 主页标题字号（单位：px）
         homeTitleFontSize = 40
         # content in home top image, support Markdown
         # 主页内容，支持Markdown语法
-        homeContent = "Hop in to the train and travel the field of growing book stalks"
+        homeContent = "Hop in to the train and travel the field of growing book stocks"
         # font size(px)
         # 主页内容字号（单位：px）
         homeContentFontSize = 20
