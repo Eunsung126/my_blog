@@ -13,4 +13,4 @@ She is a blogger, who produces, writes, and shares book reviews and projects cre
 
 ---
 
-In my childhood, I read the memorable Korean kids' story, called "구름빵 (Cloud Bread)" by Baek Hee-na, who is an author and illustrator of short charming stories. This unique story is about baking bread out of clouds. Ever since reading her book, I always wanted to lie down on a giant sunflower and blow clouds. In my imagination, it would feel like blowing bubbles? Even though in real life, it is not possible, being able to blow fluffy and dense clouds would be like my wish tangled with imagination.
+[^1]: In my childhood, I read the memorable Korean kids' story, called "구름빵 (Cloud Bread)" by Baek Hee-na, who is an author and illustrator of short charming stories. This unique story is about baking bread out of clouds. Ever since reading her book, I always wanted to lie down on a giant sunflower and blow clouds. In my imagination, it would feel like blowing bubbles? Even though in real life, it is not possible, being able to blow fluffy and dense clouds would be like my wish tangled with imagination.
